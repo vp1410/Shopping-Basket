@@ -1,6 +1,7 @@
 # MyFirstApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+Link to my project: https://recipe-book-5f625.firebaseapp.com/auth
 
 ## Development server
 
